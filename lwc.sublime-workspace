@@ -1,0 +1,620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"function_user"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"fas",
+				"falsi_method"
+			],
+			[
+				"e",
+				"eps"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"res",
+				"results_falsi"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"fa",
+				"falsi"
+			],
+			[
+				"itea",
+				"iterative_chord"
+			],
+			[
+				"ire",
+				"iterative_newton"
+			],
+			[
+				"d",
+				"deriv_function"
+			],
+			[
+				"itera",
+				"iterative_secant"
+			],
+			[
+				"secant",
+				"secant_method"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"irea",
+				"iterative_falsi"
+			],
+			[
+				"min",
+				"minval"
+			],
+			[
+				"print",
+				"printf	printf …"
+			],
+			[
+				"max",
+				"maxval"
+			],
+			[
+				"bi",
+				"bisection2"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"input",
+				"inputAlphabet"
+			],
+			[
+				"for",
+				"forIterativ"
+			],
+			[
+				"Sess",
+				"Session.get	Meteor: Session.get(key)"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fr",
+				"friends"
+			],
+			[
+				"add",
+				"add_friends_l"
+			],
+			[
+				"cleane",
+				"cleaned_data"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"signu",
+				"signup_form"
+			],
+			[
+				"pas",
+				"password_doublecheck"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"fi",
+				"FILES"
+			],
+			[
+				"pos",
+				"POST"
+			],
+			[
+				"Gende",
+				"GENDERS"
+			],
+			[
+				"choice",
+				"ChoiceField"
+			],
+			[
+				"ge",
+				"GENDERS"
+			],
+			[
+				"m",
+				"Model"
+			],
+			[
+				"type",
+				"type_and_run"
+			],
+			[
+				"Point",
+				"PointY"
+			],
+			[
+				"poin",
+				"PointY"
+			],
+			[
+				"poi",
+				"PointY"
+			],
+			[
+				"cap",
+				"nCapacity"
+			],
+			[
+				"objDate",
+				"objDateRange"
+			],
+			[
+				"datetime",
+				"datetimeEnd"
+			],
+			[
+				"pri",
+				"price"
+			],
+			[
+				"date",
+				"DateFormat"
+			],
+			[
+				"ob",
+				"objDateRange"
+			],
+			[
+				"objDa",
+				"objDateRange"
+			],
+			[
+				"list",
+				"listReservations"
+			],
+			[
+				"obj",
+				"objDatetimeEnd"
+			],
+			[
+				"str",
+				"strDateTime"
+			],
+			[
+				"Data",
+				"DateFormat"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"get",
+				"get_hand_of_cards"
+			],
+			[
+				"file_to",
+				"file_to_write"
+			],
+			[
+				"file",
+				"file_to_write"
+			],
+			[
+				"count",
+				"count_lines"
+			],
+			[
+				"count_li",
+				"count_lines_output"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"com",
+				"companii_by_etaj"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"li",
+				"List"
+			],
+			[
+				"valid",
+				"validNumber"
+			],
+			[
+				"va",
+				"validNumar"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"arr",
+				"arrSelectate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 403.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/stefan/Documents/ANIIISem2/TCompilare/Tema1.java",
+		"/home/stefan/Documents/ANIIISem2/CalculNumeric/Laborator1/dynamic.py",
+		"/home/stefan/Documents/ANIIISem2/CalculNumeric/Laborator1/Problema1.py",
+		"/home/stefan/Documents/FunStaff/Ubisoft Interview problems/test1.cpp",
+		"/home/stefan/Documents/FunStaff/Ubisoft Interview problems/test2.cpp",
+		"/home/stefan/Documents/FunStaff/Ubisoft Interview problems/test3.cpp",
+		"/home/stefan/Documents/FunStaff/Ubisoft Interview problems/test4.cpp",
+		"/home/stefan/Documents/FunStaff/Ubisoft Interview problems/test5.cpp",
+		"/home/stefan/Documents/ANIIISem2/CalculNumeric/Laborator1/Problema1_oneroot.py",
+		"/home/stefan/Documents/FunStaff/CV/catalina/cataghiorghita.github.io/Procfile",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/templates/layout.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita/settings.py",
+		"/home/stefan/Documents/FunStaff/CV/catalina/cataghiorghita.github.io/cataghiorghita/wsgi.py",
+		"/home/stefan/Documents/FunStaff/CV/catalina/cataghiorghita.github.io/CNAME",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita2/templates/welcome_code.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita2/views.py",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita/urls.py",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita2/forms.py",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita2/static/css/main.css",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita2/templates/letter.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita2/templates/layout.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/cataghiorghita.github.io/requirements.txt",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/templates/profile.html",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/purepython/urls.py",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/templates/signup.html",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/templates/login.html",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/models.py",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/forms.py",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/views.py",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/templates/index.html",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/purepython/settings.py",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita2/admin.py",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/admin.py",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita/forms.py",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita/views.py",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita/templates/welcome_code.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita/templates/layout.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita/templates/letter.html",
+		"/home/stefan/Documents/ANIIISem2/todo.txt",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/cataghiorghita/urls",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/purepython/urls",
+		"/home/stefan/Documents/FunStaff/CV/catalina/cataghiorghita.github.io/index.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/shite/cataghiorghita/index.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/cv/style.css",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/purepython/__init__.py",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/manage.py",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/forms",
+		"/home/stefan/Documents/FunStaff/CV/stefanilie.github.io/index.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/cataghiorghita.github.io/css/main.css",
+		"/home/stefan/Documents/FunStaff/CV/cv/index.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/cv/id_rsa_CATA.pub",
+		"/home/stefan/Documents/FunStaff/CV/catalina/cv/index.html",
+		"/home/stefan/Documents/FunStaff/CV/catalina/cv/index",
+		"/home/stefan/Documents/ANIIISem2/TCompilare/README.md",
+		"/home/stefan/Documents/FunStaff/CV/stefanilie.github.io/css/main.css",
+		"/home/stefan/Documents/ANIIISem2/Licenta/FamAID/fb/templates/add_friends.html",
+		"/home/stefan/Documents/ANIIISem2/Licenta/LearnBootstrap/index.html",
+		"/home/stefan/Documents/FunStaff/meteor_projects/foosboom-meteor/client/main.html",
+		"/home/stefan/Documents/FunStaff/meteor_projects/foosboom-meteor/server/publications.coffee",
+		"/home/stefan/Documents/FunStaff/meteor_projects/foosboom-meteor/views/teams.coffee",
+		"/home/stefan/Documents/FunStaff/meteor_projects/foosboom-meteor/views/teams.html",
+		"/home/stefan/Documents/FunStaff/meteor_projects/foosboom-meteor/lib/collections/teams.coffee",
+		"/home/stefan/Documents/FunStaff/meteor_projects/foosboom-meteor/server/fixtures.coffee",
+		"/home/stefan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/stefan/Documents/FunStaff/meteor_projects/foosboom-meteor/client/main.coffee",
+		"/home/stefan/Documents/FunStaff/meteor_projects/foosboom-meteor/views/teams.js",
+		"/home/stefan/Documents/Hack/echipa5/fb/templates/edit_profile.html",
+		"/home/stefan/Documents/Hack/echipa5/.gitignore",
+		"/home/stefan/Documents/ANIIIsem1/PD/Laborator_8/lab8/compile.bat",
+		"/home/stefan/Documents/ANIIIsem1/PD/view.html",
+		"/home/stefan/Documents/FunStaff/toBuy.txt",
+		"/home/stefan/Documents/ANIIIsem1/PD/Laborator 4—Implementarea imp.ml in OCaml.txt",
+		"/home/stefan/Documents/ANIIIsem1/PD/Laborator 3 — tipuri de date în OCaml.txt",
+		"/home/stefan/Documents/ANIIIsem1/PD/Laborator 5 - Proiectare și tipuri in IMP.txt",
+		"/home/stefan/Documents/ANIIIsem1/Python/Python/moloz.py",
+		"/home/stefan/Documents/ANIIIsem1/Python/Python/count_lines_input.txt",
+		"/home/stefan/Documents/ANIIIsem1/Python/Python/homework2.py",
+		"/home/stefan/Documents/ANIIIsem1/Python/Python/homework1.py",
+		"/home/stefan/Documents/ANIIIsem1/Python/Python/homawork_3.py",
+		"/home/stefan/Documents/FunStaff/Comedie/Punchlines",
+		"/home/stefan/Documents/ANIIIsem1/Python/Python/output_2.txt",
+		"/home/stefan/Documents/ANIIIsem1/Python/Python/count_lines_output.txt",
+		"/home/stefan/Documents/ANIIIsem1/PD/lab3.txt",
+		"/home/stefan/Documents/ANIIIsem1/Python/input.txt",
+		"/home/stefan/Documents/ANIIIsem1/Python/moloz.py",
+		"/home/stefan/Documents/ANIIIsem1/PD/imp.ml",
+		"/home/stefan/Documents/ANIIIsem1/PD/3",
+		"/home/stefan/Documents/ANIIIsem1/Python/hello.py",
+		"/home/stefan/Documents/ANIIIsem1/Cercetare/Cercetare.txt",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/app/views/static_pages/contacts.html.erb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/spec/spec_helper.rb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/config/routes.rb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/README.rdoc",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/Gemfile",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/config/initializers/secret_token.rb",
+		"/home/stefan/Documents/FunStaff/rails_projects/sample_app/.gitignore",
+		"/home/stefan/Documents/FunStaff/rails_projects/demo_app/app/models/micropost.rb",
+		"/home/stefan/Documents/FunStaff/rails_projects/demo_app/app/models/user.rb",
+		"/home/stefan/Documents/FunStaff/rails_projects/demo_app/app/models/clear"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"plot",
+			"plotXStart",
+			"plot",
+			"func",
+			"falsi(",
+			"\n+",
+			"1e-13",
+			"results_secant",
+			"results_falsi",
+			"results_chord",
+			"results",
+			"metodaSecantei",
+			"solution",
+			"tolerance",
+			"func",
+			"bisection2",
+			"prec",
+			"static",
+			"psycopg2",
+			"dj",
+			"dj-database-url",
+			"django",
+			"tulip",
+			"img",
+			"templa",
+			"template",
+			"render",
+			"image",
+			"Constantinescu",
+			"constantinescu",
+			"add",
+			"UserProfile",
+			"profile",
+			"UserProfile",
+			"request.POST",
+			"context",
+			"lookup",
+			"infertype",
+			"date",
+			"();\n",
+			"strDateTime",
+			"date",
+			"	\n",
+			"counter",
+			"list_div",
+			"list_div.append",
+			"ist_div.",
+			"ist_div",
+			"date",
+			"random",
+			"#{base_title}",
+			"base_title",
+			"#{base_title}",
+			"' | ",
+			"Contacts"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "lwc.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
