@@ -3,5 +3,5 @@ from django.shortcuts import render
 
 def home(request):
 	context = {}
-	template = "come.html"
+	template = "home.html"
 	return render(request, template, context)

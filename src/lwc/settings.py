@@ -76,6 +76,11 @@ USE_L10N = True
 USE_TZ = True
 
 
+TEMPLATE_DIRS = (
+    #'~/Documents/ANIIISem2/Licenta/LearnDjango/lwc/src/templates/',
+    os.path.join(BASE_DIR, 'templates')
+    )
+
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
